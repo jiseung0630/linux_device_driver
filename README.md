@@ -1,5 +1,8 @@
 # Device Driver
 
+## 목차
+1. [실습 방법](#실습-방법)
+
 ### 실습 방법
 1) ubuntu에서 각 폴더로 진입
 2) vi Makefile로 진입
